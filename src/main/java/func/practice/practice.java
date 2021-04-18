@@ -1,4 +1,4 @@
-package practice;
+package func.practice;
 
 import java.util.Arrays;
 import java.util.HashSet;

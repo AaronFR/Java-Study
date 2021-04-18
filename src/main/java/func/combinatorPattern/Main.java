@@ -1,10 +1,10 @@
-package combinatorPattern;
+package func.combinatorPattern;
 
-import static combinatorPattern.CustomerRegistrationValidator.ValidationResult.SUCCESS;
-import static combinatorPattern.CustomerRegistrationValidator.isAdult;
-import static combinatorPattern.CustomerRegistrationValidator.isPhoneNumberValid;
+import static func.combinatorPattern.CustomerRegistrationValidator.ValidationResult.SUCCESS;
+import static func.combinatorPattern.CustomerRegistrationValidator.isAdult;
+import static func.combinatorPattern.CustomerRegistrationValidator.isPhoneNumberValid;
 
-import combinatorPattern.CustomerRegistrationValidator.ValidationResult;
+import func.combinatorPattern.CustomerRegistrationValidator.ValidationResult;
 import java.time.LocalDate;
 
 public class Main {

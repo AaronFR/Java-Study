@@ -1,4 +1,4 @@
-package combinatorPattern;
+package func.combinatorPattern;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;

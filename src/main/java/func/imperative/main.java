@@ -1,7 +1,7 @@
-package imperative;
+package func.imperative;
 
-import static imperative.main.Gender.FEMALE;
-import static imperative.main.Gender.MALE;
+import static func.imperative.main.Gender.FEMALE;
+import static func.imperative.main.Gender.MALE;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -10,6 +10,8 @@ import java.util.function.Predicate;
 public class main {
 
   public static void main(String[] args) {
+
+    // ToDo: This should go in another directory
 
     List<Person> people = new ArrayList<Person>();
 

@@ -1,11 +1,11 @@
-package combinatorPattern;
+package func.combinatorPattern;
 
-import static combinatorPattern.CustomerRegistrationValidator.ValidationResult.EMAIL_NOT_VALID;
-import static combinatorPattern.CustomerRegistrationValidator.ValidationResult.IS_NOT_AN_ADULT;
-import static combinatorPattern.CustomerRegistrationValidator.ValidationResult.PHONE_NUMBER_NOT_VALID;
-import static combinatorPattern.CustomerRegistrationValidator.ValidationResult.SUCCESS;
+import static func.combinatorPattern.CustomerRegistrationValidator.ValidationResult.EMAIL_NOT_VALID;
+import static func.combinatorPattern.CustomerRegistrationValidator.ValidationResult.IS_NOT_AN_ADULT;
+import static func.combinatorPattern.CustomerRegistrationValidator.ValidationResult.PHONE_NUMBER_NOT_VALID;
+import static func.combinatorPattern.CustomerRegistrationValidator.ValidationResult.SUCCESS;
 
-import combinatorPattern.CustomerRegistrationValidator.ValidationResult;
+import func.combinatorPattern.CustomerRegistrationValidator.ValidationResult;
 import java.time.LocalDate;
 import java.time.Period;
 import java.util.function.Function;

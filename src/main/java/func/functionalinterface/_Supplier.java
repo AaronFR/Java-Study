@@ -1,4 +1,4 @@
-package functionalinterface;
+package func.functionalinterface;
 
 import java.util.Arrays;
 import java.util.List;

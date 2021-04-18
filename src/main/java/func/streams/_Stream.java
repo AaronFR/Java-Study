@@ -1,15 +1,13 @@
-package streams;
+package func.streams;
 
-import static streams._Stream.Gender.FEMALE;
-import static streams._Stream.Gender.MALE;
+import static func.streams._Stream.Gender.FEMALE;
+import static func.streams._Stream.Gender.MALE;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Set;
 import java.util.function.Function;
 import java.util.function.IntConsumer;
 import java.util.function.ToIntFunction;
-import java.util.stream.Collectors;
 
 public class _Stream {
 
